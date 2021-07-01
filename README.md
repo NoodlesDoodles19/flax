@@ -68,7 +68,7 @@ CPU-only version:
 
 ```
 > pip install --upgrade pip # To support manylinux2010 wheels.
-> pip install --upgrade jax jaxlib # CPU-only
+> pip install --upgrade jax jaxlib # FOR CPU-only
 ```
 
 Then install Flax from PyPi:
@@ -163,4 +163,4 @@ is intended to be that from [flax/version.py](https://github.com/google/flax/blo
 
 ## Note
 
-Flax is an open source project maintained by a dedicated team in Google Research, but is not an official Google product.
+Flax is an open source project maintained by a dedicated team in Google Research, but is not an official Google product, and is not directly affiliated with Google.
